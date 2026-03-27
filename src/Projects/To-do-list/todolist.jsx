@@ -1,6 +1,8 @@
 import Card from './card'
 
 function Todolist (){
+const input_bar = document.getElementById("input_bar")
+
   return(
    <div>
     <main>
@@ -9,4 +11,6 @@ function Todolist (){
    </div>
   )
 }
+
+
 export default Todolist;
