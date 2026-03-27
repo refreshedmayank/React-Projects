@@ -3,3 +3,48 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: black;
+}
+.Header-text {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.Bar {
+  text-align: center;
+  color: white;
+}
+.footer-Bar {
+  text-align: center;
+  color: white;
+}
+.footer-text {
+  color: white;
+  text-align: center;
+  font-size: smaller;
+}
+.Card {
+  display: block;
+  width: 1300px;
+  height: 80vh;
+  background: transparent;
+  border-radius: 25px;
+  border: 1px solid white;
+  margin: 20px auto 0;
+  text-align: center;
+
+}
+
+.Enter {
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+  width: 300px;
+  border: 1px solid white;
+  border-radius: 5px;
+  background: transparent;
+  color: white;
+  text-align: center;
+
+}
