@@ -61,4 +61,27 @@ body {
   max-height: calc(80vh - 110px);
 
 }
+/* counter css */
+body {
+  background-color: rgb(80, 182, 193)
+}
 
+.Count {
+  text-align: center;
+}
+
+.IncreaseButton {
+  text-align: center;
+
+}
+
+.Counter-Container {
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 500px;
+  height: 300px;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 150px;
+}

@@ -1,9 +1,13 @@
 import Card from "./card";
+import Footer from "./footer.jsx";
+import Header from "./header.jsx";
 
 function Todolist(){
   return (
     <div>
-      <Card />
+  <Header />
+  < Card />
+  <Footer />
     </div>
   )
 }
